@@ -35,7 +35,7 @@ void setup() {
 //Reset the background and draw the board.
 //Also draws scores and stuff.
 void draw() {
-  background(0, 128, 0); //Draws the default background
+  background(9, 165, 55); //Draws the default background
   
   //Update the button to show moves before rendering the board so that it is available for the rest of the code.
   showMoves.isMouseOver();

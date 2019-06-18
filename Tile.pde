@@ -34,7 +34,7 @@ class Tile{
     stroke(0);
     //If the mouse is over, use a lighter colour
     if(mouseOver){
-      fill(color(20, 180, 20));
+      fill(color(9, 175, 99));
     }else{
       noFill(); //Otherwise, just make it the same as the background
     }
